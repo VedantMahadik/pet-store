@@ -27,7 +27,7 @@ const StoreCard = ({ breed, name, price, gender, age, text, imgSrc, link }) => {
 					<div className="store-right">
 						<div className="modal-header">
 							<h1 className="modal-title">
-								{name} , {age}yo
+								{name} , {age}
 							</h1>
 							<button
 								className="close-button"
@@ -39,9 +39,9 @@ const StoreCard = ({ breed, name, price, gender, age, text, imgSrc, link }) => {
 							</button>
 						</div>
 						<div className="modal-body">
-							<h2>Breed: {breed}</h2>
-							<h2>Price: {price}</h2>
-							<h2>Gender: {gender}</h2>
+							<h2>{breed}</h2>
+							<h2>{price}</h2>
+							<h2>{gender}</h2>
 							<p>{text}</p>
 							<button className="btn-card">
 								<a className="btn-link" href={link}>
