@@ -15,7 +15,7 @@ function App() {
 			<Router>
 				<Nav />
 				<Switch>
-					<Route path="/" exact component={Home} />
+					<Route path="/pet_store" exact component={Home} />
 					<Route path="/pet" exact component={Pet} />
 					<Route path="/pet/dog" component={Dog} />
 					<Route path="/pet/cat" component={Cat} />
