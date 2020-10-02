@@ -9,7 +9,7 @@ const StoreSection = () => {
 				<h1 className="title">Which side are you on?</h1>
 				<div className="split left">
 					<div className="centered">
-						<img src="images/cats1.jpg" alt="" />
+						<img src="/images/cats1.jpg" alt="" />
 						<div className="store-btns">
 							<Button
 								className="btns"
@@ -32,7 +32,7 @@ const StoreSection = () => {
 				</div>
 				<div className="split right">
 					<div className="centered">
-						<img src="images/dog1.jpg" alt="" />
+						<img src="/images/dog1.jpg" alt="" />
 						<div className="store-btns">
 							<Button
 								className="btns"
