@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pet-store/static/css/main.a51d75e6.chunk.css",
+    "main.js": "/pet-store/static/js/main.c83d8ed7.chunk.js",
+    "main.js.map": "/pet-store/static/js/main.c83d8ed7.chunk.js.map",
+    "runtime-main.js": "/pet-store/static/js/runtime-main.5552f7b5.js",
+    "runtime-main.js.map": "/pet-store/static/js/runtime-main.5552f7b5.js.map",
+    "static/js/2.3377f9e1.chunk.js": "/pet-store/static/js/2.3377f9e1.chunk.js",
+    "static/js/2.3377f9e1.chunk.js.map": "/pet-store/static/js/2.3377f9e1.chunk.js.map",
+    "index.html": "/pet-store/index.html",
+    "precache-manifest.35e5e390a84d2c3db08deb2bcda5caf5.js": "/pet-store/precache-manifest.35e5e390a84d2c3db08deb2bcda5caf5.js",
+    "service-worker.js": "/pet-store/service-worker.js",
+    "static/css/main.a51d75e6.chunk.css.map": "/pet-store/static/css/main.a51d75e6.chunk.css.map",
+    "static/js/2.3377f9e1.chunk.js.LICENSE.txt": "/pet-store/static/js/2.3377f9e1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5552f7b5.js",
+    "static/js/2.3377f9e1.chunk.js",
+    "static/css/main.a51d75e6.chunk.css",
+    "static/js/main.c83d8ed7.chunk.js"
+  ]
+}
