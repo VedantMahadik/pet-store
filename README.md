@@ -51,6 +51,6 @@ Run server
 
 ## Task list
 
-- [ ] make responsive
-- [ ] improve design
-- [ ] extend the contact pages
+- [ ] Make responsive
+- [ ] Improve design
+- [ ] Extend the contact pages
