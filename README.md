@@ -1,4 +1,4 @@
-# <center>[:dog:Pet Store :cat: ](https://pet-store-three.vercel.app/)</center>
+# <h1 align="center">[:dog:Pet Store :cat: ](https://pet-store-three.vercel.app/)</h1>
 
 ---
 
